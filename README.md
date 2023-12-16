@@ -5,7 +5,7 @@
 
 # Tugas 1
 # Topik Penelitian
-Judul: Memprediksi terjadinya gagal jantung menggunakan SVM dan ANN
+Judul: Penerapan Metode Support Vector Machine dan Artifical Neural Network untuk Prediksi Penyakit Gagal Jantung 
 
 #Pertanyaan Penelitian:
 
