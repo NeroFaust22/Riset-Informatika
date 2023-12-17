@@ -5,7 +5,7 @@
 
 
 # Topik Penelitian
-Judul: Penerapan Metode Support Vector Machine dan Artifical Neural Network untuk Prediksi Penyakit Gagal Jantung
+Judul: Penerapan Metode Support Vector Machine dan Artifical Neural Network untuk Memprediksi Penyakit Gagal Jantung
 
 # Pertanyaan Penelitian:
 - Bagaimana cara menerapkan metode SVM & ANN untuk memprediksi gagal jantung?
