@@ -8,8 +8,8 @@
 Judul: Penerapan Metode Support Vector Machine dan Artifical Neural Network untuk Prediksi Penyakit Gagal Jantung
 
 # Pertanyaan Penelitian:
-Bagaimana cara menerapkan metode SVM & ANN untuk memprediksi gagal jantung?
-Bagaimana cara memprediksi penyakit gagal jantung menggunakan metode SVM & ANN ?
+- Bagaimana cara menerapkan metode SVM & ANN untuk memprediksi gagal jantung?
+- Bagaimana cara memprediksi penyakit gagal jantung menggunakan metode SVM & ANN ?
 
 # Tujuan Penelitan
 Tujuan dari penelitian untuk memprediksi gagal jantung dengan menggunakan metode SVM (Support Vector Machine) dan ANN (Artificial Neural Network) adalah untuk mengembangkan model prediktif yang dapat mengidentifikasi atau memprediksi kemungkinan terjadinya gagal jantung pada seseorang.
